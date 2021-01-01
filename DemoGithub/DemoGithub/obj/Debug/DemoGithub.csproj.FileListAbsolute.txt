@@ -8,3 +8,13 @@ C:\Users\Dell\Desktop\Demo\DemoGithub\DemoGithub\obj\Debug\DemoGithub.csproj.Gen
 C:\Users\Dell\Desktop\Demo\DemoGithub\DemoGithub\obj\Debug\DemoGithub.csproj.CoreCompileInputs.cache
 C:\Users\Dell\Desktop\Demo\DemoGithub\DemoGithub\obj\Debug\DemoGithub.exe
 C:\Users\Dell\Desktop\Demo\DemoGithub\DemoGithub\obj\Debug\DemoGithub.pdb
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\bin\Debug\DemoGithub.exe.config
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\bin\Debug\DemoGithub.exe
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\bin\Debug\DemoGithub.pdb
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.Form1.resources
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.Properties.Resources.resources
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.exe
+C:\Users\Dell\Desktop\feature-1\DemoGithub\DemoGithub\obj\Debug\DemoGithub.pdb
